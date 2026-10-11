@@ -46,4 +46,4 @@ Java 8-era syntax).
 ## Login
 
 See `src/StLogin.java` — the credentials are hard-coded for demonstration
-purposes.
+purposes. **U:Etini/P:175**
